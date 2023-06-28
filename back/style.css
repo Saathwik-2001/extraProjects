@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    border: 3px;
+    border-radius: 0.5px;
+}
+
+.new{
+
+    color: blue;
+}
+
+#re{
+    color: red;
+}
